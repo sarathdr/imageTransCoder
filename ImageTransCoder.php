@@ -8,7 +8,7 @@
  * Also caches the image.
  *<p/>
  *
- * User: sdevadas@realnetowrks.com
+ * User: sarath.dr@gmail.com
  *
  * Date: 21/06/16
  * Time: 13:32

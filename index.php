@@ -14,4 +14,3 @@ Utils::checkGdLibraryExists();
 $transCoder = new ImageTransCoder($_SERVER, $_REQUEST);
 $transCoder->startTransCoding();
 
-?>

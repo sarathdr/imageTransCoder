@@ -2,7 +2,7 @@
 
 /**
  * Utils class for image transcoder
- * User: sdevadas@realnetworks.com
+ * User: sarath.dr@gmail.com
  * Date: 20/06/16
  * Time: 16:39
  */
